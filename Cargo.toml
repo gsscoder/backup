@@ -1,0 +1,10 @@
+[package]
+name = "bk"
+version = "0.1.0"
+authors = ["Giacomo Stelluti Scala <gsscoder@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33.0"
+glob = "0.3.0"
+regex = "1.3.1"
